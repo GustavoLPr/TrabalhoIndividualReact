@@ -1,0 +1,71 @@
+header {
+    background-color: #4CAF50; 
+    color: white;          
+    padding: 20px;             
+    text-align: center;        
+    font-size: 24px;           
+    font-weight: bold;         
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 8px;       
+    margin-bottom: 20px;       
+  }
+  
+  div.caixa-informacoes {
+    max-width: 400px;
+    margin: 20px auto;           
+    padding: 20px;
+    border: 2px solid #ccc;      
+    border-radius: 8px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    background-color: #f9f9f9;   
+  }
+  
+  div.caixa-informacoes label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  div.caixa-informacoes input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  div.caixa-informacoes button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  div.caixa-informacoes button:hover {
+    background-color: #45a049;
+  }
+  
+  div.resultado {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+  }
+  
+footer {
+    position: fixed;        
+    bottom: 0;                
+    left: 0;                  
+    right: 0;                 
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #45a049;
+  }
+  
+  
